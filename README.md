@@ -4,6 +4,8 @@ Findings: source generated logging is far superior in performance and completely
 
 <img width="1071" height="129" alt="image" src="https://github.com/user-attachments/assets/ce771209-f8a5-4962-b99c-1da2ad8f5ca1" />
 
-Checkout the benchmark [here](https://github.com/ivanwe2/benchmark-logging/blob/main/Program.cs)
+Checkout the benchmark [here](https://github.com/ivanwe2/benchmark-logging/blob/main/Program.cs).
+
+More about source generated logging [here](https://learn.microsoft.com/en-us/dotnet/core/extensions/logger-message-generator).
 
 _Disclaimer: created using AI_
