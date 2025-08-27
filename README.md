@@ -1,4 +1,4 @@
-* Basic vs Source-Generated Logging Comparison
+## Basic vs Source-Generated Logging Comparison
 
 Findings: source generated logging is far superior in performance and completely eliminates memory allocation:
 
